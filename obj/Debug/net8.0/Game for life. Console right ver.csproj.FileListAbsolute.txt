@@ -1,0 +1,14 @@
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Game for life. Console right ver.exe
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Game for life. Console right ver.deps.json
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Game for life. Console right ver.runtimeconfig.json
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Game for life. Console right ver.dll
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Game for life. Console right ver.pdb
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Game for life. Console right ver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Game for life. Console right ver.AssemblyInfoInputs.cache
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Game for life. Console right ver.AssemblyInfo.cs
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Game for life. Console right ver.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Game for life. Console right ver.dll
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Game for life. Console right ver.dll
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Game for life. Console right ver.pdb
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Game for life. Console right ver.genruntimeconfig.cache
+C:\Users\misha\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Game for life. Console right ver.dll
